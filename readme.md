@@ -50,3 +50,7 @@ I'm trying to solve following puzzle, using prolog.
   <summary>Answer</summary>
   5,6
 </details>
+
+# Conclusion
+
+Feels like I just did a functional programming, not a logic programming. :(
